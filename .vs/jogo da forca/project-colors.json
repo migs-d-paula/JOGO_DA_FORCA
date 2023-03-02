@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e343f5c-516e-484d-aa19-3b4300eced39": {
+      "ProjectGuid": "2e343f5c-516e-484d-aa19-3b4300eced39",
+      "DisplayName": "jogo da forca",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

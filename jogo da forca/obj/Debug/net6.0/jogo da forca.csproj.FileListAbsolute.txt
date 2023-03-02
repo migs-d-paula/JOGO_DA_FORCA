@@ -1,0 +1,15 @@
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\jogo da forca.exe
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\jogo da forca.deps.json
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\jogo da forca.runtimeconfig.json
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\jogo da forca.dll
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\ref\jogo da forca.dll
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\bin\Debug\net6.0\jogo da forca.pdb
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.AssemblyInfoInputs.cache
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.AssemblyInfo.cs
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.dll
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\ref\jogo da forca.dll
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.pdb
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.genruntimeconfig.cache
+C:\Users\miguel.pveloso\source\repos\jogo da forca\jogo da forca\obj\Debug\net6.0\jogo da forca.csproj.AssemblyReference.cache
